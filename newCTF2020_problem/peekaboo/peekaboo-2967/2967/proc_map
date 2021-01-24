@@ -1,0 +1,109 @@
+71000000-71185000 r-xp 00000000 fd:00 672717                             /home/jyc/DynamoRIO-Linux-8.0.0-1/lib64/release/libdynamorio.so
+71185000-71385000 ---p 00000000 00:00 0 
+71385000-713da000 rw-p 00185000 fd:00 672717                             /home/jyc/DynamoRIO-Linux-8.0.0-1/lib64/release/libdynamorio.so
+713da000-7142d000 rw-p 00000000 00:00 0 
+7142d000-7142e000 ---p 00000000 00:00 0 
+7fac403ec000-7fac403ed000 ---p 00000000 00:00 0 
+7fac403ed000-7fac403f3000 rw-p 00000000 00:00 0 
+7fac403f3000-7fac403f5000 ---p 00000000 00:00 0 
+7fac403f5000-7fac40433000 rw-p 00000000 00:00 0 
+7fac40433000-7fac40435000 ---p 00000000 00:00 0 
+7fac40435000-7fac40436000 rw-p 00000000 00:00 0 
+7fac40436000-7fac4043d000 ---p 00000000 00:00 0 
+7fac4043d000-7fac40443000 rw-p 00000000 00:00 0 
+7fac40443000-7fac40445000 ---p 00000000 00:00 0 
+7fac40445000-7fac40453000 rw-p 00000000 00:00 0 
+7fac40453000-7fac40455000 ---p 00000000 00:00 0 
+7fac40455000-7fac40458000 rw-p 00000000 00:00 0 
+7fac40458000-7fac40465000 ---p 00000000 00:00 0 
+7fac40465000-7fac40466000 rw-p 00000000 00:00 0 
+7fac40466000-7fac40468000 ---p 00000000 00:00 0 
+7fac40468000-7fac4046a000 rw-p 00000000 00:00 0 
+7fac4046a000-7fac4046c000 ---p 00000000 00:00 0 
+7fac4046c000-7fac4047a000 rw-p 00000000 00:00 0 
+7fac4047a000-7fac4047c000 ---p 00000000 00:00 0 
+7fac4047c000-7fac4047f000 rw-p 00000000 00:00 0 
+7fac4047f000-7fac40484000 ---p 00000000 00:00 0 
+7fac40484000-7fac40486000 rw-p 00000000 00:00 0 
+7fac40486000-7fac40489000 ---p 00000000 00:00 0 
+7fac40489000-7fac4048a000 rw-p 00000000 00:00 0 
+7fac4048a000-7fac4048e000 ---p 00000000 00:00 0 
+7fac4048e000-7fac40496000 rw-p 00000000 00:00 0 
+7fac40496000-7facc03ed000 ---p 00000000 00:00 0 
+7facc03ed000-7facc03f0000 r--p 00000000 fd:00 799374                     /home/jyc/peekaboo/peekaboo_dr/build/libpeekaboo_dr.so
+7facc03f0000-7facc03f5000 r-xp 00003000 fd:00 799374                     /home/jyc/peekaboo/peekaboo_dr/build/libpeekaboo_dr.so
+7facc03f5000-7facc03f6000 r--p 00008000 fd:00 799374                     /home/jyc/peekaboo/peekaboo_dr/build/libpeekaboo_dr.so
+7facc03f6000-7facc03f7000 ---p 00000000 00:00 0 
+7facc03f7000-7facc03f9000 rw-p 00009000 fd:00 799374                     /home/jyc/peekaboo/peekaboo_dr/build/libpeekaboo_dr.so
+7facc03f9000-7facc03fb000 ---p 00000000 00:00 0 
+7facc03fb000-7facc03ff000 rw-p 00000000 00:00 0 
+7facc03ff000-7facc0403000 ---p 00000000 00:00 0 
+7facc0403000-7facc0404000 rwxp 00000000 00:00 0 
+7facc0404000-7facc0405000 r-xp 00000000 00:00 0 
+7facc0405000-7facc0406000 rwxp 00000000 00:00 0 
+7facc0406000-7facc040a000 ---p 00000000 00:00 0 
+7facc040a000-7facc040b000 rwxp 00000000 00:00 0 
+7facc040b000-7facc041a000 ---p 00000000 00:00 0 
+7facc041a000-7facc041b000 rwxp 00000000 00:00 0 
+7facc041b000-7facc042a000 ---p 00000000 00:00 0 
+7facc042a000-7facc042b000 rwxp 00000000 00:00 0 
+7facc042b000-7facc0432000 ---p 00000000 00:00 0 
+7facc0432000-7facc0433000 rwxp 00000000 00:00 0 
+7facc0433000-7facc043a000 ---p 00000000 00:00 0 
+7facc043a000-7facc043b000 rw-p 00000000 00:00 0 
+7facc043b000-7facc0441000 ---p 00000000 00:00 0 
+7facc0441000-7facc0444000 r-xp 00000000 fd:00 673808                     /home/jyc/DynamoRIO-Linux-8.0.0-1/ext/lib64/release/libdrutil.so
+7facc0444000-7facc0643000 ---p 00000000 00:00 0 
+7facc0643000-7facc0645000 rw-p 00002000 fd:00 673808                     /home/jyc/DynamoRIO-Linux-8.0.0-1/ext/lib64/release/libdrutil.so
+7facc0645000-7facc0646000 ---p 00000000 00:00 0 
+7facc0646000-7facc0659000 r-xp 00000000 fd:00 673798                     /home/jyc/DynamoRIO-Linux-8.0.0-1/ext/lib64/release/libdrmgr.so
+7facc0659000-7facc0858000 ---p 00000000 00:00 0 
+7facc0858000-7facc085a000 rw-p 00012000 fd:00 673798                     /home/jyc/DynamoRIO-Linux-8.0.0-1/ext/lib64/release/libdrmgr.so
+7facc085a000-7facc085b000 ---p 00000000 00:00 0 
+7facc085b000-7facc0866000 r-xp 00000000 fd:00 673825                     /home/jyc/DynamoRIO-Linux-8.0.0-1/ext/lib64/release/libdrx.so
+7facc0866000-7facc0a66000 ---p 00000000 00:00 0 
+7facc0a66000-7facc0a68000 rw-p 0000b000 fd:00 673825                     /home/jyc/DynamoRIO-Linux-8.0.0-1/ext/lib64/release/libdrx.so
+7facc0a68000-7facc0a69000 ---p 00000000 00:00 0 
+7facc0a69000-7facc0a72000 r-xp 00000000 fd:00 673804                     /home/jyc/DynamoRIO-Linux-8.0.0-1/ext/lib64/release/libdrreg.so
+7facc0a72000-7facc0c72000 ---p 00000000 00:00 0 
+7facc0c72000-7facc0c74000 rw-p 00009000 fd:00 673804                     /home/jyc/DynamoRIO-Linux-8.0.0-1/ext/lib64/release/libdrreg.so
+7facc0c74000-7fad003ed000 ---p 00000000 00:00 0 
+7fad003ed000-7fad003ee000 r--p 00000000 fd:00 799894                     /home/jyc/peekaboo/trace/peekaboo
+7fad003ee000-7fad003ef000 r-xp 00001000 fd:00 799894                     /home/jyc/peekaboo/trace/peekaboo
+7fad003ef000-7fad003f0000 r--p 00002000 fd:00 799894                     /home/jyc/peekaboo/trace/peekaboo
+7fad003f0000-7fad003f2000 rw-p 00002000 fd:00 799894                     /home/jyc/peekaboo/trace/peekaboo
+7fad003f2000-7fad003f3000 ---p 00000000 00:00 0 
+7fad003f3000-7fad007f3000 rw-p 00000000 00:00 0 
+7fad036be000-7fad03fde000 rw-p 00000000 00:00 0 
+7fad03fde000-7fad03fdf000 r--p 00000000 00:00 0 
+7fad03fdf000-7fad04004000 r--p 00000000 fd:00 1576254                    /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fad04004000-7fad0417c000 r-xp 00025000 fd:00 1576254                    /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fad0417c000-7fad041c6000 r--p 0019d000 fd:00 1576254                    /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fad041c6000-7fad041c7000 ---p 00000000 00:00 0 
+7fad041c7000-7fad041cd000 rw-p 001e7000 fd:00 1576254                    /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fad041cd000-7fad041d1000 rw-p 00000000 00:00 0 
+7fad041d1000-7fad041d2000 ---p 00000000 00:00 0 
+7fad04336000-7fad0433e000 rw-p 00000000 00:00 0 
+7fad0433e000-7fad0433f000 r--p 00000000 00:00 0 
+7fad0433f000-7fad0437f000 rw-p 00000000 00:00 0 
+7fad0437f000-7fad04380000 r--p 00000000 00:00 0 
+7fad04380000-7fad04390000 rw-p 00000000 00:00 0 
+7fad04390000-7fad04391000 r--p 00000000 00:00 0 
+7fad04391000-7fad04392000 r--p 00000000 fd:00 1576249                    /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fad04392000-7fad043b5000 r-xp 00001000 fd:00 1576249                    /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fad043b5000-7fad043bd000 r--p 00024000 fd:00 1576249                    /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fad043bd000-7fad043be000 ---p 00000000 00:00 0 
+7fad043be000-7fad043c0000 rw-p 0002c000 fd:00 1576249                    /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fad043c0000-7fad043c1000 rw-p 00000000 00:00 0 
+7fad043c1000-7fad043c2000 ---p 00000000 00:00 0 
+7fad043c2000-7fad043c3000 r--p 00000000 fd:00 1576249                    /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fad043c3000-7fad043e6000 r-xp 00001000 fd:00 1576249                    /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fad043e6000-7fad043ee000 r--p 00024000 fd:00 1576249                    /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fad043ee000-7fad043ef000 ---p 00000000 00:00 0 
+7fad043ef000-7fad043f1000 rw-p 0002c000 fd:00 1576249                    /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fad043f1000-7fad043f2000 rw-p 00000000 00:00 0 
+7fad043f2000-7fad043f3000 ---p 00000000 00:00 0 
+7fffa98bb000-7fffa98dc000 rw-p 00000000 00:00 0                          [stack]
+7fffa99de000-7fffa99e1000 r--p 00000000 00:00 0                          [vvar]
+7fffa99e1000-7fffa99e2000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
